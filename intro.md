@@ -77,7 +77,7 @@ au développement et au déploiement d'applications en production.
 La section suivante fait justemment un survol de ces outils.
 
 ## JavaScript en 2017
-La première version de **JavaScript** remonte à 1995. En 1997,
+La première version de [JavaScript][] remonte à 1995. En 1997,
 le langage était standardisé sous le nom ECMAScript et a évolué
 jusqu'à la 6e édition, soit ES7 toujours en développement.
 
@@ -92,7 +92,7 @@ son langage de *template* natif.
 
 ### Babel
 [Babel][] est un transpilateur qui converti du code écrit dans une
-version de [JavaScript][] (ou du JSX) vers une autre
+version de **JavaScript** (ou du JSX) vers une autre
 version de **JavaScript**. C'est ce qui permet d'écrire du code moderne
 tout en supportant divers environnements (fureteurs, node).
 
