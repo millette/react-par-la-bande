@@ -35,9 +35,25 @@ Ceci installera **n** et **node.js** 6.x.y ainsi que **npm** 3.x.y.
 **npm** est le gestionnaire de paquets **node.js** et sert à installer
 les dépendances en JavaScript.
 
-## React
+## Définitions
+C'est important de définir les outils utilisés.
 
-## Next.js
+### React
+> React (aussi appelé React.js ou ReactJS) est
+> une bibliothèque JavaScript libre développée par Facebook depuis 2013.
+> Le but principal de cette bibliothèque est de faciliter
+> la création d'application web monopage, via la création
+> de composants dépendant d'un état et générant une page (ou portion) HTML
+> à chaque changement d'état. -- [Wikipedia][wp:fr:React]
+
+### Next.js
+> *Next.js is a minimalistic framework for server-rendered
+> React applications.* -- [GitHub][gh:next.js]
+
+Traduction:
+
+> Next.js est un *framework* minimaliste pour des applications React
+> rendus sur le serveur.
 
 [Préambule]: <preambule.md>
 [Introduction]: <intro.md>
@@ -46,3 +62,5 @@ les dépendances en JavaScript.
 [React]: <https://facebook.github.io/react/>
 [node.js]: <https://nodejs.org/>
 [n-install]: <https://github.com/mklement0/n-install>
+[wp:fr:React]: <https://fr.wikipedia.org/wiki/React_%28JavaScript%29>
+[gh:next.js]: <https://github.com/zeit/next.js>
