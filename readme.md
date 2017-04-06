@@ -34,12 +34,14 @@ les dépendances en JavaScript.
 ## Table des matières
 
 * [Préambule][] - 20 ans de développement web
+* [Glossaire][] - définitions
 * [Introduction][] - commencez ici si vous êtes pressés
 * [Avec Markdown][] - impact sur la taille du JavaScript produit
 
 [Préambule]: <preambule.md>
 [Introduction]: <intro.md>
 [Avec Markdown]: <markdown.md>
+[Glossaire]: <glossaire.md>
 [next.js]: <https://zeit.co/blog/next2>
 [React]: <https://facebook.github.io/react/>
 [node.js]: <https://nodejs.org/>
