@@ -4,13 +4,6 @@ Excellent! Si vous avez déjà [node.js][] version 6 ou mieux,
 vous aurez votre site **React** en moins de 30 secondes!
 Si vous n'avez pas **node.js**, ça prendre 1-2 minutes de plus.
 
-## Documents liés
-
-* [Préambule][] - 20 ans de développement web
-* [Glossaire][] - définitions
-* [Introduction][] - ce document
-* [Avec Markdown][] - impact sur la taille du JavaScript produit
-
 ## Prérequis
 
 ### JavaScript
@@ -35,6 +28,13 @@ que n soit disponible. Voir [n-install][] pour les détails.
 Ceci installera **n** et **node.js** 6.x.y ainsi que **npm** 3.x.y.
 **npm** est le gestionnaire de paquets **node.js** et sert à installer
 les dépendances en JavaScript.
+
+## Documents liés
+
+* [Préambule][] - 20 ans de développement web
+* [Glossaire][] - définitions
+* [Introduction][] - ce document
+* [Avec Markdown][] - impact sur la taille du JavaScript produit
 
 [Préambule]: <preambule.md>
 [Introduction]: <intro.md>

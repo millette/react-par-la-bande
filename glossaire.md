@@ -2,13 +2,6 @@
 
 C'est important de définir les outils utilisés.
 
-## Documents liés
-
-* [Préambule][] - 20 ans de développement web
-* [Glossaire][] - ce document
-* [Introduction][] - commencez ici si vous êtes pressés
-* [Avec Markdown][] - impact sur la taille du JavaScript produit
-
 ## Définitions
 ### React
 > React (aussi appelé React.js ou ReactJS) est
@@ -71,6 +64,13 @@ tout en supportant divers environnements (fureteurs, node).
 ### Webpack
 [Webpack][] gère à la fois les fichiers JavaScript et CSS pour les
 concaténer et en faire des *bundles*.
+
+## Documents liés
+
+* [Préambule][] - 20 ans de développement web
+* [Glossaire][] - ce document
+* [Introduction][] - commencez ici si vous êtes pressés
+* [Avec Markdown][] - impact sur la taille du JavaScript produit
 
 [Préambule]: <preambule.md>
 [Introduction]: <intro.md>
